@@ -50,9 +50,9 @@ I’m a penultimate-year Computer Science and Engineering student transitioning 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhinavvNair&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Abhinav's GitHub Stats" />
   
-  <br /><br />
+ <br /><br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhinavvNair&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavvNair&theme=github-dark&hide_border=true&area=true&color=38b2ac" />
   
   <br /><br />
 

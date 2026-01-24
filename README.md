@@ -1,6 +1,5 @@
 # Hi 👋, I'm Abhinav
-
-### A passionate AI Engineer & Full-Stack Developer
+ A passionate AI Engineer & Full-Stack Developer
 
 
 

@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abhinav
 B.Tech Engineer in CS & Full-Stack Developer
 <br />
-
+<br />
 # About Me:
 I’m a penultimate-year Computer Science and Engineering student transitioning into Edge AI and Large Language Model optimization.
 
@@ -45,22 +45,14 @@ I’m a penultimate-year Computer Science and Engineering student transitioning 
 <br />
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Contribution Graph:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavvNair&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Abhinav's GitHub Stats" />
-  
- <br /><br />
+
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavvNair&theme=github-dark&hide_border=true&area=true&color=38b2ac" />
   
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavvNair&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
-</div>
-
-<br />
-<br />
 
 <div align="center">
   <h2>~Quote Of The Day~</h2>

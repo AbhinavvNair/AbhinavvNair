@@ -5,7 +5,7 @@ B.Tech Engineer in CS & Full-Stack Developer
 # About Me:
 I’m a penultimate-year Computer Science and Engineering student transitioning into Edge AI and Large Language Model optimization.
 
-- 🔭 I'm currently working on **[EduSummarizer](https://github.com/AbhinavvNair/EduSummarizer)** – A privacy-focused GenAI study companion running entirely on local CPU.
+- 🔭 I'm currently working on **[NeuroNotes](https://github.com/AbhinavvNair/NeuroNotes)** – A privacy-focused GenAI study companion running entirely on local CPU.
 - 🌱 I'm currently learning **LLM Quantization, Edge AI Inference, and System Design.**
 - 👯 I'm looking to collaborate on **Open-source Generative AI tools and Python-based web architectures.**
 - 🤝 I'm looking for help with **Optimizing Transformer models for low-resource devices.**

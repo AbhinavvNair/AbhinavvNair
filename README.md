@@ -1,15 +1,13 @@
 # Hi 👋, I'm Abhinav
-B.Tech Engineer in CS & Full-Stack Developer
+CSE B.Tech student
 <br />
 <br />
 # About Me:
-I’m a penultimate-year Computer Science and Engineering student transitioning into Edge AI and Large Language Model optimization.
+I’m  a penultimate-year CSE student who enjoys experimenting with different tech while building small and practical projects. I’ve worked with React, Node.js, Express, Python, FastAPI, MongoDB, Docker, and a bit of machine learning using TensorFlow and scikit-learn. Mostly, I just like trying things out and figuring out how stuff works as I go.
 
-- 🔭 I'm currently working on **[EduSummarizer](https://github.com/AbhinavvNair/NeuroNotes)** – A privacy-focused GenAI study companion running entirely on local CPU.
-- 🌱 I'm currently learning **LLM Quantization, Edge AI Inference, and System Design.**
-- 👯 I'm looking to collaborate on **Open-source Generative AI tools and Python-based web architectures.**
-- 🤝 I'm looking for help with **Optimizing Transformer models for low-resource devices.**
-- 💬 Ask me about **Python, FastAPI, Local LLMs, React, and Full-Stack Engineering.**
+I'm currently working on **⚡[EduSummarizer](https://github.com/AbhinavvNair/NeuroNotes)⚡** – A privacy-focused GenAI study companion running entirely on local CPU. 
+
+I usually build things with a React + Node.js/Express + MongoDB setup, and Python whenever the project needs AI/ML.
 
 <br />
 

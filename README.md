@@ -43,13 +43,7 @@ I usually build things with a React + Node.js/Express + MongoDB setup, and Pytho
 <br />
 
 
-# 📊 GitHub Contribution Graph:
 
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavvNair&theme=github-dark&hide_border=true&area=true&color=38b2ac" />
-  
-  <br /><br />
 
 
 <div align="center">

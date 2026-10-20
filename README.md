@@ -3,7 +3,7 @@ CSE B.Tech student
 <br />
 <br />
 # About Me:
-I’m  a penultimate-year CSE student who enjoys experimenting with different tech while building small and practical projects. I’ve worked with React, Node.js, Express, Python, FastAPI, MongoDB, Docker, and a bit of machine learning using TensorFlow and scikit-learn. Mostly, I just like trying things out and figuring out how stuff works as I go.
+I’m  a fourth-year CSE student who enjoys experimenting with different tech while building small and practical projects. I’ve worked with React, Node.js, Express, Python, FastAPI, MongoDB, Docker, and a bit of machine learning using TensorFlow and scikit-learn. Mostly, I just like trying things out and figuring out how stuff works as I go.
 
 I'm currently working on **⚡[EduSummarizer](https://github.com/AbhinavvNair/NeuroNotes)⚡** – A privacy-focused GenAI study companion running entirely on local CPU. 
 

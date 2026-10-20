@@ -13,7 +13,7 @@ I usually build things with a React + Node.js/Express + MongoDB setup, and Pytho
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <a href="https://linkedin.com/in/abhinav-rajeevu-nair-9a7b86304" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a><a href="https://github.com/AbhinavvNair" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a><a href="https://instagram.com/abhinav_._nair" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/abhinav-rajeevu-nair-9a7b86304" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a><a href="https://github.com/AbhinavvNair" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a><a href="https://instagram.com/abhinavvnairr" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </div>
 
 <br />
